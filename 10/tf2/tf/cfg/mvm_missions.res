@@ -1,0 +1,1 @@
+../../../../config/mvm_missions.res
